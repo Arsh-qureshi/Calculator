@@ -1,8 +1,8 @@
-Public class main{
-Public static void main(String args[]){
-add(1,2);
-sub(2,6);
-mul(8*9;
-div(40/4);
+public class main{
+public static void main(String args[]){
+public add(1,2);
+public sub(2,6);
+public mul(8*9;
+public div(40/4);
 }
 }
